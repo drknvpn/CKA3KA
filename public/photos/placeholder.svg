@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2B2520"/>
+  <g fill="none" stroke="#D6A85C" stroke-width="2" opacity="0.5">
+    <rect x="330" y="230" width="140" height="140" rx="20"/>
+    <circle cx="372" cy="272" r="10"/>
+    <path d="M345 355 l35-40 25 28 20-22 40 34" stroke-linejoin="round"/>
+  </g>
+  <text x="400" y="420" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#C9BBA6" text-anchor="middle" opacity="0.7">Фото скоро появится</text>
+</svg>
