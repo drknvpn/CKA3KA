@@ -61,7 +61,7 @@ export default function Footer() {
           <img
             src="/assets/images/sibir_adaptive_010.webp"
             alt="Сибирь"
-            className="h-12 max-w-[220px] object-contain"
+            className="h-12 max-w-[320px] object-contain"
           />
         </a>
       </div>
