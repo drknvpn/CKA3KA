@@ -59,7 +59,7 @@ export default function Footer() {
           aria-label="Перейти в группу Сибирь ВКонтакте"
         >
           <img
-            src="/assets/images/sibir_adaptive_010.webp"
+            src="/assets/images/ru.png"
             alt="Сибирь"
             className="h-12 max-w-[320px] object-contain"
           />
